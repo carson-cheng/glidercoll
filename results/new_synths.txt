@@ -1,0 +1,40 @@
+xs19_3pq3ob96
+RLE is well-formed and has a population of 30 and a size of 153 bytes.
+RLE is sufficiently small to post to Catagolue:
+
+x = 0, y = 0, rule = B3/S23
+135$177.A$176.A$176.3A2$137.A$138.2A$137.2A4$154.A.A$154.2A12.A$155.A11.A$167.3A2$155.2A$154.A.A$156.A9$152.2A$153.2A$152.A!
+
+RLE has been successfully saved in the Datastore.
+xs15_25b8o0ui
+RLE is well-formed and has a population of 30 and a size of 160 bytes.
+RLE is sufficiently small to post to Catagolue:
+
+x = 0, y = 0, rule = B3/S23
+137$141.A.A$142.2A$142.A15$157.A$158.2A$157.2A4$173.A$172.A$172.3A4$176.3A$176.A$177.A3$174.2A$173.2A$175.A14$145.2A$144.A.A$146.A!
+
+RLE has been successfully saved in the Datastore.
+xs17_31km996z0121
+RLE is well-formed and has a population of 30 and a size of 151 bytes.
+RLE is sufficiently small to post to Catagolue:
+
+x = 0, y = 0, rule = B3/S23
+147$163.A$164.A$162.3A5$158.A$159.2A4.A.A$158.2A6.2A$166.A3$162.2A$163.2A$162.A2$152.A$152.2A$151.A.A6$165.3A$165.A$166.A!
+
+RLE has been successfully saved in the Datastore.
+xs16_xg8ge13zca23
+RLE is well-formed and has a population of 30 and a size of 155 bytes.
+RLE is sufficiently small to post to Catagolue:
+
+x = 0, y = 0, rule = B3/S23
+144$149.A.A$150.2A$150.A5$156.A$154.A.A$155.2A$147.A$148.2A$147.2A2$157.A$157.2A$156.A.A3.3A$162.A$163.A12$162.3A$162.A$163.A!
+
+RLE has been successfully saved in the Datastore.
+xs20_069b8oz311dd
+RLE is well-formed and has a population of 30 and a size of 144 bytes.
+RLE is sufficiently small to post to Catagolue:
+
+x = 0, y = 0, rule = B3/S23
+145$155.A$156.A$154.3A18.A.A$175.2A$176.A$159.3A3.A$161.A3.A.A$160.A4.2A10$149.3A$151.A$150.A4$171.2A$170.2A$172.A!
+
+RLE has been successfully saved in the Datastore.

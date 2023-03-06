@@ -1,0 +1,2 @@
+arch -x86_64 gcc coll4.c -o coll_gen_6g -std=c99 -O3 -Wall -Wextra -Wno-unused-function -march=core2 -D COMPILING_FOR_X86_64_WITH_SSSE3 -D VERSION_FOR_AVX_512F_IS_AVAILABLE
+arch -x86_64 gcc coll4.c -o coll_avx2_6g -std=c99 -O3 -Wall -Wextra -Wno-unused-function -march=haswell -D COMPILING_FOR_X86_64_WITH_AVX2 -D VERSION_FOR_AVX_512F_IS_AVAILABLE
